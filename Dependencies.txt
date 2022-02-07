@@ -1,0 +1,10 @@
+•	pip pyttsx3:
+•	pip beautifulsoup4:
+•	pip requests:
+•	pip pygame:
+•	Pip googletrans:
+•	Pip speech recognition:
+•	Pip pylint:
+•	Pip pywin32:
+•	Pip pyAudio
+•	Pip wheel
